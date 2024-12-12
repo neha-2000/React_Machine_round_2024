@@ -1,0 +1,304 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "title": "iPhone 9",
+            "description": "An Apple which is nothing like apple",
+            "price": 549,
+            "rating": 5,
+            "category": "smartphones",
+            "thumbnail": "https://www.zdnet.com/a/img/resize/0258ce846d7b24064837b16a38756b526188dad1/2024/09/22/5404cdba-d88c-4f1b-982c-76197d0edf08/iphone-16-pro-apple-store-mall.jpg?auto=webp&fit=crop&height=1200&width=1200",
+            "inStock": true
+          },
+          {
+            "id": 2,
+            "title": "Samsung Galaxy S22",
+            "description": "Powerful performance meets stunning design",
+            "price": 799,
+            "rating": 4.8,
+            "category": "smartphones",
+            "thumbnail": "https://www.zdnet.com/a/img/resize/0258ce846d7b24064837b16a38756b526188dad1/2024/09/22/5404cdba-d88c-4f1b-982c-76197d0edf08/iphone-16-pro-apple-store-mall.jpg?auto=webp&fit=crop&height=1200&width=1200",
+            "inStock": true
+          },
+          {
+            "id": 3,
+            "title": "Google Pixel 7",
+            "description": "Pure Android experience with stellar camera",
+            "price": 699,
+            "rating": 4.7,
+            "category": "smartphones",
+            "thumbnail": "https://www.zdnet.com/a/img/resize/0258ce846d7b24064837b16a38756b526188dad1/2024/09/22/5404cdba-d88c-4f1b-982c-76197d0edf08/iphone-16-pro-apple-store-mall.jpg?auto=webp&fit=crop&height=1200&width=1200",
+            "inStock": false
+          },
+          {
+            "id": 4,
+            "title": "OnePlus 10 Pro",
+            "description": "Flagship killer with top specs",
+            "price": 899,
+            "rating": 4.9,
+            "category": "smartphones",
+            "thumbnail": "https://www.zdnet.com/a/img/resize/0258ce846d7b24064837b16a38756b526188dad1/2024/09/22/5404cdba-d88c-4f1b-982c-76197d0edf08/iphone-16-pro-apple-store-mall.jpg?auto=webp&fit=crop&height=1200&width=1200",
+            "inStock": true
+          },
+          {
+            "id": 5,
+            "title": "MacBook Pro 14",
+            "description": "Powerhouse laptop for professionals",
+            "price": 1999,
+            "rating": 5,
+            "category": "laptops",
+            "thumbnail": "https://imageurl/macbook-pro-14.jpg",
+            "inStock": true
+          },
+          {
+            "id": 6,
+            "title": "Dell XPS 13",
+            "description": "Ultra-thin, ultra-powerful",
+            "price": 1299,
+            "rating": 4.8,
+            "category": "laptops",
+            "thumbnail": "https://imageurl/dell-xps-13.jpg",
+            "inStock": false
+          },
+          {
+            "id": 7,
+            "title": "Asus ROG Zephyrus",
+            "description": "Gaming laptop with unmatched performance",
+            "price": 1799,
+            "rating": 4.9,
+            "category": "laptops",
+            "thumbnail": "https://imageurl/asus-rog.jpg",
+            "inStock": true
+          },
+          {
+            "id": 8,
+            "title": "Sony WH-1000XM4",
+            "description": "Top-tier noise-canceling headphones",
+            "price": 349,
+            "rating": 5,
+            "category": "audio",
+            "thumbnail": "https://imageurl/sony-wh1000xm4.jpg",
+            "inStock": true
+          },
+          {
+            "id": 9,
+            "title": "Bose QuietComfort 45",
+            "description": "Comfort and quality audio combined",
+            "price": 329,
+            "rating": 4.9,
+            "category": "audio",
+            "thumbnail": "https://imageurl/bose-qc45.jpg",
+            "inStock": true
+          },
+          {
+            "id": 10,
+            "title": "Apple Watch Series 8",
+            "description": "Stay connected, healthy, and safe",
+            "price": 399,
+            "rating": 4.7,
+            "category": "wearables",
+            "thumbnail": "https://imageurl/apple-watch-8.jpg",
+            "inStock": true
+          },
+          {
+            "id": 11,
+            "title": "Fitbit Charge 5",
+            "description": "Advanced fitness and health tracker",
+            "price": 149,
+            "rating": 4.6,
+            "category": "wearables",
+            "thumbnail": "https://imageurl/fitbit-charge5.jpg",
+            "inStock": true
+          },
+          {
+            "id": 12,
+            "title": "Samsung Galaxy Tab S8",
+            "description": "Productivity and entertainment in one",
+            "price": 599,
+            "rating": 4.8,
+            "category": "tablets",
+            "thumbnail": "https://imageurl/samsung-tab-s8.jpg",
+            "inStock": false
+          },
+          {
+            "id": 13,
+            "title": "iPad Air 5th Gen",
+            "description": "Lightweight, powerful, and versatile",
+            "price": 499,
+            "rating": 4.9,
+            "category": "tablets",
+            "thumbnail": "https://imageurl/ipad-air5.jpg",
+            "inStock": true
+          },
+          {
+            "id": 14,
+            "title": "Logitech MX Master 3",
+            "description": "Ultimate productivity mouse",
+            "price": 99,
+            "rating": 4.8,
+            "category": "accessories",
+            "thumbnail": "https://imageurl/logitech-mx3.jpg",
+            "inStock": true
+          },
+          {
+            "id": 15,
+            "title": "Microsoft Surface Pro 8",
+            "description": "Tablet that can replace your laptop",
+            "price": 899,
+            "rating": 4.8,
+            "category": "laptops",
+            "thumbnail": "https://imageurl/surface-pro-8.jpg",
+            "inStock": true
+          },
+          {
+            "id": 16,
+            "title": "HP Spectre x360",
+            "description": "Versatile 2-in-1 laptop with premium design",
+            "price": 1399,
+            "rating": 4.7,
+            "category": "laptops",
+            "thumbnail": "https://imageurl/hp-spectre-x360.jpg",
+            "inStock": true
+          },
+          {
+            "id": 17,
+            "title": "Razer Blade 15",
+            "description": "High-performance gaming laptop",
+            "price": 2299,
+            "rating": 4.8,
+            "category": "laptops",
+            "thumbnail": "https://imageurl/razer-blade-15.jpg",
+            "inStock": true
+          },
+          {
+            "id": 18,
+            "title": "Sony PlayStation 5",
+            "description": "Next-gen gaming console with stunning graphics",
+            "price": 499,
+            "rating": 5,
+            "category": "gaming",
+            "thumbnail": "https://imageurl/ps5.jpg",
+            "inStock": false
+          },
+          {
+            "id": 19,
+            "title": "Xbox Series X",
+            "description": "Powerful gaming console from Microsoft",
+            "price": 499,
+            "rating": 4.9,
+            "category": "gaming",
+            "thumbnail": "https://imageurl/xbox-series-x.jpg",
+            "inStock": true
+          },
+          {
+            "id": 20,
+            "title": "Apple AirPods Pro",
+            "description": "Noise-canceling wireless earbuds",
+            "price": 249,
+            "rating": 4.8,
+            "category": "audio",
+            "thumbnail": "https://imageurl/airpods-pro.jpg",
+            "inStock": true
+          },
+          {
+            "id": 21,
+            "title": "Samsung Galaxy Buds Pro",
+            "description": "Premium earbuds with rich sound",
+            "price": 199,
+            "rating": 4.7,
+            "category": "audio",
+            "thumbnail": "https://imageurl/galaxy-buds-pro.jpg",
+            "inStock": true
+          },
+          {
+            "id": 22,
+            "title": "Nikon D3500",
+            "description": "Entry-level DSLR camera for enthusiasts",
+            "price": 499,
+            "rating": 4.6,
+            "category": "cameras",
+            "thumbnail": "https://imageurl/nikon-d3500.jpg",
+            "inStock": true
+          },
+          {
+            "id": 23,
+            "title": "Canon EOS R6",
+            "description": "Full-frame mirrorless camera with advanced features",
+            "price": 2499,
+            "rating": 4.9,
+            "category": "cameras",
+            "thumbnail": "https://imageurl/canon-r6.jpg",
+            "inStock": false
+          },
+          {
+            "id": 24,
+            "title": "GoPro Hero 10",
+            "description": "Action camera for adventure enthusiasts",
+            "price": 399,
+            "rating": 4.8,
+            "category": "cameras",
+            "thumbnail": "https://imageurl/gopro-hero10.jpg",
+            "inStock": true
+          },
+          {
+            "id": 25,
+            "title": "Amazon Echo Dot 4th Gen",
+            "description": "Smart speaker with Alexa",
+            "price": 49,
+            "rating": 4.6,
+            "category": "smart home",
+            "thumbnail": "https://imageurl/echo-dot-4.jpg",
+            "inStock": true
+          },
+          {
+            "id": 26,
+            "title": "Google Nest Hub",
+            "description": "Smart display for your home",
+            "price": 99,
+            "rating": 4.7,
+            "category": "smart home",
+            "thumbnail": "https://imageurl/google-nest-hub.jpg",
+            "inStock": true
+          },
+          {
+            "id": 27,
+            "title": "Philips Hue Starter Kit",
+            "description": "Smart lighting system with voice control",
+            "price": 149,
+            "rating": 4.9,
+            "category": "smart home",
+            "thumbnail": "https://imageurl/philips-hue-kit.jpg",
+            "inStock": false
+          },
+          {
+            "id": 28,
+            "title": "Fitbit Versa 3",
+            "description": "Smartwatch with advanced fitness tracking",
+            "price": 199,
+            "rating": 4.7,
+            "category": "wearables",
+            "thumbnail": "https://imageurl/fitbit-versa3.jpg",
+            "inStock": true
+          },
+          {
+            "id": 29,
+            "title": "LG OLED C1 55-inch",
+            "description": "4K OLED TV with amazing picture quality",
+            "price": 1499,
+            "rating": 5,
+            "category": "televisions",
+            "thumbnail": "https://imageurl/lg-oled-c1.jpg",
+            "inStock": true
+          },
+          {
+            "id": 30,
+            "title": "Samsung QLED Q80A 65-inch",
+            "description": "High-end QLED TV for stunning visuals",
+            "price": 1799,
+            "rating": 4.8,
+            "category": "televisions",
+            "thumbnail": "https://imageurl/samsung-q80a.jpg",
+            "inStock": true
+          }
+    ]
+}

@@ -1,0 +1,59 @@
+.container{
+  display: grid;
+      gap: 10px;
+      grid-template-columns: 1fr 1fr 1fr;
+      margin: 20px;
+      padding: 0px;
+}
+.box{
+  background: gainsboro;
+  border: 2px solid gray;
+  border-radius: 10px;
+  margin: 5px;
+  height: 150px;
+  width:  150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+
+}
+
+
+.box img{
+  border: 1px solid gray;
+  margin: 5px;
+  height: 100px;
+  width:  100px;
+  background: white;
+  border-radius: 10px;
+}
+
+
+.box .title{
+  font-size: 15px;
+}
+
+.pagination{
+  padding: 10px;
+  margin: 15px 0;
+  display: flex;
+  justify-content: center;
+
+}
+
+.pagination>span{
+  cursor: pointer;
+  border: 1px solid gray;
+  padding: 15px 20px;
+  
+}
+
+.pagination>span:hover{
+  background: rgba(0, 166, 255, 0.226);
+}
+
+.pagination_selected{
+  background: goldenrod;
+}
